@@ -53,7 +53,7 @@ def main():
 
     end_time = time()
 
-    print(end_time - start_time)
+    print("tempo total: ", end_time - start_time)
 
 
 if __name__ == "__main__":
